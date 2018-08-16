@@ -18,4 +18,5 @@ public class GunStats
     public float fireRate;
     public float recoil;
     public float damage;
+    public float reloadTime;
 }
